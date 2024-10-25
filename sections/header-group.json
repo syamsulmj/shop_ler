@@ -30,6 +30,18 @@
         "padding_bottom": 20
       }
     },
+    "custom_banner_RDkwp7": {
+      "type": "custom-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Welcome Brother and Sisters",
+        "content": "<p>This is the content</p>",
+        "image": "shopify://shop_images/karipap1.jpg",
+        "link": ""
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -57,6 +69,7 @@
   },
   "order": [
     "header",
+    "custom_banner_RDkwp7",
     "announcement-bar"
   ]
 }
